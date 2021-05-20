@@ -12,7 +12,6 @@
 	return a
 ```
 
-<ul>
-	<li>Time Complexity: O(n^2)</li>
-	<li>The algorithm degrades quickly with increase in size</li>
-</ul>
+- Time Complexity: O(n^2)
+- The algorithm degrades quickly with increase in size
+
