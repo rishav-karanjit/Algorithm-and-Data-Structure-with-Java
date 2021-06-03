@@ -7,4 +7,5 @@ Selection Sort		 | O(n^2)          | Unstable 	 | Similar to bubble sort but it 
 Insertion Sort		 | O(n^2)          | Stable		 | Insert items into sorted list from unsorted
 Shell Sort			 | O(n^2)		   | Unstable	 | Variation of Insertion sort
 Merge Sort 			 | O(nlogn)		   | Stable		 | 
-Quick sort 			 | O(nlogn)		   | Unstable	 | Uses pivot
+Quick Sort 			 | O(nlogn)		   | Unstable	 | Uses pivot
+Counting Sort 		 | O(n)			   | Unstable	 | Values must be non-negative and within a specific range
